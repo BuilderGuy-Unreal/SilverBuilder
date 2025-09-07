@@ -1,4 +1,6 @@
 #!/bin/bash
 # Activate virtual environment and run main bot
-source ~/botenv/bin/activate
+if [ -f ~/botenv/bin/activate ]; then
+    source ~/botenv/bin/activate
+fi
 python bot.py
