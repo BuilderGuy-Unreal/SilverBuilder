@@ -1,0 +1,13 @@
+/data/data/com.termux/files/home/MyBot/bot.py:31: RuntimeWarning: coroutine 'BotBase.load_extension' was never awaited
+  bot.load_extension(f"cogs.{filename[:-3]}")
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+[2025-09-07 10:40:41] [INFO    ] discord.client: logging in using static token
+[2025-09-07 10:40:43] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 0116457f1c72d2064633bd59743d39d7).
+[2025-09-07 10:41:44] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0116457f1c72d2064633bd59743d39d7.
+[2025-09-07 10:42:42] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0116457f1c72d2064633bd59743d39d7.
+[2025-09-07 10:44:06] [WARNING ] discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2025-09-07 10:44:07] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0116457f1c72d2064633bd59743d39d7.
+[2025-09-07 10:44:57] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0116457f1c72d2064633bd59743d39d7.
+[2025-09-07 10:47:17] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0116457f1c72d2064633bd59743d39d7.
+[2025-09-07 10:47:30] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0116457f1c72d2064633bd59743d39d7.
+[2025-09-07 10:48:22] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 0116457f1c72d2064633bd59743d39d7.

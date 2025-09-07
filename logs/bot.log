@@ -1,0 +1,42 @@
+nohup: ignoring input
+/data/data/com.termux/files/home/MyBot/bot.py:31: RuntimeWarning: coroutine 'BotBase.load_extension' was never awaited
+  bot.load_extension(f"cogs.{filename[:-3]}")
+RuntimeWarning: Enable tracemalloc to get the object allocation traceback
+[2025-09-07 10:52:12] [INFO    ] discord.client: logging in using static token
+[2025-09-07 10:52:14] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 47c96f1035c2e6a15bb0318a941dfd09).
+[2025-09-07 11:14:39] [WARNING ] discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2025-09-07 11:14:40] [INFO    ] discord.gateway: Shard ID None session has been invalidated.
+[2025-09-07 11:14:46] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: dcd47b95c28d7853aafa6d6fec746d0e).
+[2025-09-07 11:15:27] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session dcd47b95c28d7853aafa6d6fec746d0e.
+[2025-09-07 11:15:39] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session dcd47b95c28d7853aafa6d6fec746d0e.
+[2025-09-07 11:16:01] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session dcd47b95c28d7853aafa6d6fec746d0e.
+[2025-09-07 11:18:02] [WARNING ] discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2025-09-07 11:18:03] [INFO    ] discord.gateway: Shard ID None session has been invalidated.
+[2025-09-07 11:18:10] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 7a1f58d206104f9db0f828cb98fd82a2).
+[2025-09-07 11:18:32] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7a1f58d206104f9db0f828cb98fd82a2.
+[2025-09-07 11:20:17] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7a1f58d206104f9db0f828cb98fd82a2.
+[2025-09-07 11:21:59] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7a1f58d206104f9db0f828cb98fd82a2.
+[2025-09-07 11:22:14] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7a1f58d206104f9db0f828cb98fd82a2.
+[2025-09-07 11:22:33] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7a1f58d206104f9db0f828cb98fd82a2.
+[2025-09-07 11:23:39] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7a1f58d206104f9db0f828cb98fd82a2.
+[2025-09-07 11:24:03] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 7a1f58d206104f9db0f828cb98fd82a2.
+[2025-09-07 11:26:27] [WARNING ] discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2025-09-07 11:26:29] [INFO    ] discord.gateway: Shard ID None session has been invalidated.
+[2025-09-07 11:26:40] [INFO    ] discord.gateway: Shard ID None session has been invalidated.
+[2025-09-07 11:26:46] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: 804eed1ceb7f4fd2de8042de296d5acd).
+[2025-09-07 11:27:18] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:27:40] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:27:53] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:28:14] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:28:41] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:29:13] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:29:45] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:30:36] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:31:02] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:31:19] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+[2025-09-07 11:31:38] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 804eed1ceb7f4fd2de8042de296d5acd.
+7ebb6.
+[2025-09-07 11:30:36] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 5727ff30cfd8dd7bdd9e4fd53a97ebb6.
+[2025-09-07 11:31:02] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 5727ff30cfd8dd7bdd9e4fd53a97ebb6.
+[2025-09-07 11:31:19] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 5727ff30cfd8dd7bdd9e4fd53a97ebb6.
+[2025-09-07 11:31:38] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session 5727ff30cfd8dd7bdd9e4fd53a97ebb6.

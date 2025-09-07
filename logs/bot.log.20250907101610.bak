@@ -1,0 +1,10 @@
+[2025-09-07 09:59:26] [INFO    ] discord.client: logging in using static token
+[2025-09-07 09:59:28] [INFO    ] discord.gateway: Shard ID None has connected to Gateway (Session ID: fe146bd59485896192fa1b614bdec599).
+[2025-09-07 10:00:25] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session fe146bd59485896192fa1b614bdec599.
+[2025-09-07 10:01:27] [WARNING ] discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2025-09-07 10:01:28] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session fe146bd59485896192fa1b614bdec599.
+[2025-09-07 10:01:28] [ERROR   ] discord.ext.commands.bot: Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "ping" is not found
+[2025-09-07 10:03:08] [WARNING ] discord.gateway: Shard ID None has stopped responding to the gateway. Closing and restarting.
+[2025-09-07 10:03:08] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session fe146bd59485896192fa1b614bdec599.
+[2025-09-07 10:03:43] [INFO    ] discord.gateway: Shard ID None has successfully RESUMED session fe146bd59485896192fa1b614bdec599.
